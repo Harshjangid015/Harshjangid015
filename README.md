@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshjangid015@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1Pa1dNWNlthOFrK6XeQO-BO2E9FPI38lg/view?usp=sharing))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1x6CY0VlloOncDL9qZ7cv5CFCoKZ0q8cd/view?usp=sharing))
 
 - ⚡ Fun fact **My code works... eventually.**
 
