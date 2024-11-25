@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **MERN, Java**
 
-- 👨‍💻 All of my projects are available at [https://trialemail015.wixsite.com/harsh-jangid](https://trialemail015.wixsite.com/harsh-jangid)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://trialemail015.wixsite.com/harsh-jangid)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/harshjangid015](www.linkedin.com/in/harshjangid015)
+- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/harshjangid015)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT, MONGODB**
 
 - 📫 How to reach me **harshjangid015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lJJBFVCZdumBRCEyE7pXeRmA-bSv8wIl/view?usp=sharing](https://drive.google.com/file/d/1lJJBFVCZdumBRCEyE7pXeRmA-bSv8wIl/view?usp=sharing)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1Pa1dNWNlthOFrK6XeQO-BO2E9FPI38lg/view?usp=sharing))
 
 - ⚡ Fun fact **My code works... eventually.**
 
