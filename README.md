@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN, Java**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://trialemail015.wixsite.com/harsh-jangid)
+- 👨‍💻 All of my projects are available at ([My Portfolio Website](https://trialemail015.wixsite.com/harsh-jangid))
 
-- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/harshjangid015)
+- 📝 I regularly write articles on ([Linkedin](www.linkedin.com/in/harshjangid015))
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT, MONGODB**
 
